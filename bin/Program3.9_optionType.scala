@@ -1,7 +1,4 @@
- 
 
-
- 
 
 object Program39_optionType extends App {
  /* 
